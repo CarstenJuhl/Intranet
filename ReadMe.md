@@ -23,3 +23,15 @@ Vi anvender en slags MVC-pattern.
 
 
 Husk! Ingen kommunikation mellem Model og View. Gå altid igennem controlleren
+
+
+## Opret git repo
+
+'''shell
+
+git init
+git add .
+git commit -m "first commit"
+'''
+
+
